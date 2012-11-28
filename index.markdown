@@ -1,3 +1,8 @@
+---
+layout: default
+title: maschinenraum -- we can haz raum
+---
+
 **MR Links:** 
 
 - [Blog](http://blog.maschinenraum.tk)
