@@ -1,9 +1,10 @@
-**MR is:** 
+**MR Links:** 
 
-- [blogging](http://blog.maschinenraum.tk)
-- a [hack space](http://hackerspaces.org/wiki/Maschinenraum)
-- a [student initiative](http://m18.uni-weimar.de/initiativen/maschinenraum)
-- on [`IRC`](irc://irc.freenode.org/maschinenraum)
-- sometimes [on twitter](http://twitter.com/maschinenrauM18)
-- [tweeting if the door is locked or opened](http://twitter.com/mr_door_status)
-- managing [some Projects](http://m18.uni-weimar.de:1337/projects/)
+- [Blog](http://blog.maschinenraum.tk)
+- [Redmine Project Management](http://m18.uni-weimar.de:1337/projects/)
+- [`IRC`](irc://irc.freenode.org/maschinenraum)
+- [M18](http://m18.uni-weimar.de/initiativen/maschinenraum)
+- [hackerspaces.org](http://hackerspaces.org/wiki/Maschinenraum)
+- [facebook](https://www.facebook.com/maschinenraum)
+- [twitter](http://twitter.com/maschinenrauM18)
+- [door on twitter](http://twitter.com/mr_door_status)
