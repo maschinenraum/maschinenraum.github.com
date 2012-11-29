@@ -1,5 +1,5 @@
 ---
-title: maschinenraum.
+title: maschinenraum
 tagline: we can haz raum
 layout: default
 ---
