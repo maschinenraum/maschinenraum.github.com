@@ -21,6 +21,8 @@ article {
 }
 
 ul { list-style: none }
-.container { 
-	text-align: center;
+.container { text-align: center }
+a { color: hsl(85, 100%, 40%) }
+article, article h1, article h2, article h3, article h4, article h5, article h6 {
+	color: hsl(0, 0%, 40%);
 }
