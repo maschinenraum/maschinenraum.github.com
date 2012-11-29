@@ -16,4 +16,7 @@ layout: default
 
 ### [hackerspaces.org](http://hackerspaces.org/wiki/Maschinenraum)
 
-#### [facebook](https://www.facebook.com/maschinenraum) / [twitter](http://twitter.com/maschinenrauM18) [(door)](http://twitter.com/mr_door_status)
+#### [github](https://github.com/maschinenraum)
+#### [facebook](https://www.facebook.com/maschinenraum)
+
+####[twitter](https://twitter.com/maschinenrauM18) [(door)](https://twitter.com/mr_door_status)
