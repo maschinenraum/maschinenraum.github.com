@@ -1,15 +1,19 @@
 ---
+title: maschinenraum
+tagline: we can haz raum
 layout: default
-title: maschinenraum -- we can haz raum
 ---
 
-**MR Links:** 
+### [blog.maschinenraum](http://blog.maschinenraum.tk) 
 
-- [Blog](http://blog.maschinenraum.tk)
-- [Redmine Project Management](http://m18.uni-weimar.de:1337/projects/)
-- [`IRC`](irc://irc.freenode.org/maschinenraum)
-- [M18](http://m18.uni-weimar.de/initiativen/maschinenraum)
-- [hackerspaces.org](http://hackerspaces.org/wiki/Maschinenraum)
-- [facebook](https://www.facebook.com/maschinenraum)
-- [twitter](http://twitter.com/maschinenrauM18)
-- [door on twitter](http://twitter.com/mr_door_status)
+### [IRC](irc://irc.freenode.org/maschinenraum) / [Mail](https://lists.subsignal.org/mailman/listinfo/feint)
+
+### [Redmine Projects](http://m18.uni-weimar.de:1337/projects/)
+
+### [Etherpad](http://m18.uni-weimar.de/pad/)
+
+### [M18.uni-weimar](http://m18.uni-weimar.de/initiativen/maschinenraum)
+
+### [hackerspaces.org](http://hackerspaces.org/wiki/Maschinenraum)
+
+#### [facebook](https://www.facebook.com/maschinenraum) / [twitter](http://twitter.com/maschinenrauM18) [(door)](http://twitter.com/mr_door_status)
